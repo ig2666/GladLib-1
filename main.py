@@ -1,5 +1,5 @@
 # GladLib-1
-GladLib has its first short adventure right here! We promise to always have happy endings. Always.
+print("GladLib has its first short adventure right here! We promise to always have happy endings. Always.")
 print("Welcome to the GladLib portal! All stories have happy endings in GladLibs. Please \
 begin by following the instructions below.")
 adj1 = input("Please type in an adjective.")
